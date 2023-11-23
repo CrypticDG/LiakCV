@@ -1,2 +1,2 @@
 # *LiakWebsite*
-##### _Laik Online BIO/CV_
+##### _Liak Online BIO/CV_
